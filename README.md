@@ -2,12 +2,8 @@
 - 👀 I’m interested in nothing
 - 💞️ I’m looking to collaborate on nothing
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Nothing
-
-### Fun stuff
-
-![Counter](https://count.moeyy.cn/get/@李轩?theme=moebooru)
+- ⚡ Fun fact: I hate kotlin
 
 <!---
-README repository
+Github访问李轩的计数器会403，所以删除。
 --->
