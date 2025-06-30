@@ -1,4 +1,3 @@
 - 👋 Hi, I’m a114mc
 - 👀 I’m interested in java
-- 😄 Pronouns: Any gender non-specified pronouns
 - ⚡ Fun fact: I hate kotlin
