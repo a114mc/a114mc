@@ -10,4 +10,4 @@
 <!--
 <h1>Goofy ahh</h1>
 -->
-<a href="https://github.com/a114mc">![Most Used Languages]https://github-readme-stats.vercel.app/api/top-langs/?username=a114mc&layout=compact&bg_color=30,FFAEC9,384DFF&title_color=fff&text_color=fff</a>
+<a href="https://github.com/a114mc">![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a114mc&layout=compact&bg_color=30,FFAEC9,384DFF&title_color=fff&text_color=fff)</a>
