@@ -1,5 +1,5 @@
 <center>
-  <strong>If you love kotlin and hate the native JVM language java, please close this page.</strong>
+  <strong>If you love kotlin and hate the native JVM language java, please close this page because I hate kotlin lovers.</strong>
 </center>
 
 <h1>Profile views counter(since Jul 28, 2025)</h1>
