@@ -8,6 +8,4 @@
 
 <br>
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=a114mc&layout=compact&bg_color=30,FFAEC9,384DFF&title_color=fff&text_color=fff)
-
 <center><a href="https://gitroll.io/profile/sKJDNAhmNb8TfxGa4J2xQ" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/sKJDNAhmNb8TfxGa4J2xQ?theme=tokyoNight" alt="B?!"/></a></center>
